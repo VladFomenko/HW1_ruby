@@ -62,3 +62,4 @@ def number_of_case(hash)
   }
   return result
 end
+###
