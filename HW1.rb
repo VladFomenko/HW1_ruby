@@ -48,6 +48,8 @@ hobby = gets.chomp.split(%r{,\s*})
 puts "Tell me something about #{hobby[rand(0..2)]}"
 
 #4
+variable_1 = 1
+variable_2 = 2
 variable_1 = variable_1 ^ variable_2
 variable_2 = variable_2 ^ variable_1
 variable_1 = variable_1 ^ variable_2
